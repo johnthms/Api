@@ -58,7 +58,7 @@ export default class App extends Component{
         data={this.state.DATA}
         renderItem={renderItem}/>
       </View>
-    )
+   )
   }
 }
 const styles=Stylesheet.create({
